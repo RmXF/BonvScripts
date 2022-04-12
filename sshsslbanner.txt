@@ -1,10 +1,13 @@
 <b>
 :::::::::::::::::::::::::::::::::::::::::::::::<br>
 :::::::::::: BonvScripts ::::::::::::::<br>
-:::    ✮ No DDoS / Phishing    :::::::<br>
-:::    ✮ No Torrent / Spam     :::::::::<br>
-:::    ✮ No Over-Downloading   :::<br>
-:::    ✮ Avoid Multilogin      ::::::::::::<br>
-:::    ✮ No Proxy Abuse        :::::::::::::<br>
-:::    ✮ Avoid ServerIP Abuse  :::::<br>
+:    _ No DDoS / Phishing    :::::::<br>
+:    _ No Torrent / Spam     ::<br>
+:    _ No Over-Downloading   :::<br>
+:    _ Avoid Multilogin      ::<br>
+:    _ No Proxy Abuse        ::<br>
+:    _ Avoid ServerIP Abuse  ::<br>
+:    _ Look for us on our social networks as.  ::<br>
+:    _ Telgram: @BonvScript  ::<br>
+:    _ Support website: www.BonvScripts  ::<br>
 :::::::::::::::::::::::::::::::::::::::::::::::</b>
